@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "ocpstatus": [
     {
-      "id": 1,
-      "title": "hello"
+
+     "somevalue": "podXYcount",
+     "somevalue":77 
     }
   ],
   "profile": {
