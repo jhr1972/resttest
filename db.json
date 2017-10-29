@@ -1,5 +1,5 @@
 {
-  "ocpstatus": [
+  "OpenShiftStatus": [
     {
 
      "somevalue": "podXYcount",
