@@ -2,9 +2,21 @@
   "OpenShiftStatus": [
     {
 
-     "somevalue": "podXYcount",
-     "count":77 
+     "somevalue": "pod123count",
+     "count":123 
+    },
+    {
+
+     "somevalue": "pod456count",
+     "count": 456
+    },
+    {
+
+     "somevalue": "pod789count",
+     "count":78899 
     }
+  ],
+  ],
   ],
   "profile": {
     "name": "typicode"
